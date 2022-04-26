@@ -1,0 +1,19 @@
+{
+  "props": [
+    {
+      "name": "Purple",
+      "type": "color",
+      "value": "#282E4D",
+      "category": "color",
+      "meta": {
+        "projectId": "4nEWfxakgY8JngHqE1nyT3",
+        "id": "UZ9LnsUoe"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
